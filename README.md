@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @bobo1k
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<bobo1k/bobo1k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->👋hi, I'm @bobo1k
+ 💞I'm interested in relationships 
+⚡I'm currently learning English 
+👀 I'm looking to collaborate on GitHub example 
+📫how to reach me in email harunaabdul640@gmail.com
+☘️pronouncns: in sentences 
+😆fun fact: about life and more money to get respectful 
+  ![17300052558345924285514687345165](https://github.com/user-attachments/assets/f09b7c1d-6b02-4e85-9caa-cdb707beeefe)
+![IMG-20240421-WA0052](https://github.com/user-attachments/assets/4a44db05-87e4-46b1-b816-4cf711685771)
